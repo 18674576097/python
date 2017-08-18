@@ -1,1 +1,1 @@
-This is a simple practise
+The program works to create a Baidu translation crawler
